@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sie_AdminClient/Sie_AdminClient.iml" filepath="$PROJECT_DIR$/Sie_AdminClient/Sie_AdminClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sie_Server/Sie_Server.iml" filepath="$PROJECT_DIR$/Sie_Server/Sie_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sie_UserClient/Sie_UserClient.iml" filepath="$PROJECT_DIR$/Sie_UserClient/Sie_UserClient.iml" />
+    </modules>
+  </component>
+</project>

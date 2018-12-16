@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Sie_AdminClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sie_AdminClient_jar</output-path>
+    <root id="archive" name="Sie_AdminClient.jar">
+      <element id="module-output" name="Sie_AdminClient" />
+    </root>
+  </artifact>
+</component>
